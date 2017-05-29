@@ -17,6 +17,8 @@ if (($Name == null) || ($LastNames == null) || ($Identities == null) || ($Number
     echo "Nombre: $Name </br> Apellidos: $LastNames </br> Tipo de identidad: $Identities </br> "
     . "Edad: $Age </br> Fecha de Nacimiento: $Birthday </br> Género: $Gender </br> Provincia: $List_provinces";
 }
+
+//**********************************************************************************************************************
 ?>
 
 
